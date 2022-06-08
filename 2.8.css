@@ -1,0 +1,27 @@
+body {
+	background-color: bisque;
+	/* фон */
+}
+
+.block {
+	margin: 10px auto;
+	/* отступ по горизонтали, по вертикали - авто */
+	background-color: black;
+	/*  фон в блоке черный */
+	color: #ffa50f;
+	/*  цвет текста оранжевый */
+	text-indent: 20px;
+	/* красная строка */
+	border: 2px solid red;
+	/* линия вокруг бокса сплошная красная жирностью 2пкс*/
+	padding: 20px;
+	/* отступ от всех краев бокса*/
+	width: 350px;
+	/* ширина бокса*/
+	font-family: Helvetica;
+	/* шрифт*/
+	text-align: justify;
+	/* текст растянут по ширине бокса*/
+	font-size: 16px;
+	/* размер текста*/
+}
